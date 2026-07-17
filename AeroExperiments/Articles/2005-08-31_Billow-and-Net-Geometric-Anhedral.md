@@ -1,12 +1,13 @@
 # How billow increases the net geometric anhedral of a swept wing, and other related topics
 
-**This is an early edition of this article; look for a subsequent edition with more photographs to follow.**  
-*August 31 2005 edition
-Steve Seibel
-www.aeroexperiments.org
-steve at aeroexperiments.org*  
+**Steve Seibel**  
+*August 31 2005 edition*  
+[www.aeroexperiments.org](http://www.aeroexperiments.org)  
+steve at aeroexperiments.org
 
 > **Archival Markdown edition.** The wording of Steve Seibel's original article has been preserved. Formatting and navigational headings have been added for online reading. [View the original plain-text source](./2005-08-31_Billow-and-Net-Geometric-Anhedral.txt).
+
+This is an early edition of this article; look for a subsequent edition with more photographs to follow.
 
 Note August 2005: many of the ideas in this article are now contained in the photos and text that can be accessed from the related page on this website entitled Photos of hang gliders and models to illustrate how billow contributes to the net geometric anhedral of a swept wing.
 
