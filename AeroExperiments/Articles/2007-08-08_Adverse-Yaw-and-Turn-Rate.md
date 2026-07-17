@@ -1,11 +1,12 @@
 # Does adverse yaw strongly decrease the turn rate in flex-wing hang gliders?
 
-*** In Uncoordinated roll inputs in a Schleicher Ka-6 sailplane, we describe a case where adverse yaw from the ailerons completely prevents the flight path from curving when we give a roll input with no rudder input.**  
-*August 8, 2007 edition
-Steve Seibel
-www.aeroexperiments.org*  
+**Steve Seibel**  
+*August 8, 2007 edition*  
+[www.aeroexperiments.org](http://www.aeroexperiments.org)  
 
 > **Archival Markdown edition.** The wording of Steve Seibel's original article has been preserved. Formatting and navigational headings have been added for online reading. [View the original plain-text source](./2007-08-08_Adverse-Yaw-and-Turn-Rate.txt).
+
+- In Uncoordinated roll inputs in a Schleicher Ka-6 sailplane, we describe a case where adverse yaw from the ailerons completely prevents the flight path from curving when we give a roll input with no rudder input.
 
 - A hang glider is a flying-wing aircraft with no fuselage or fixed vertical tail. Therefore when a sideways component in the airflow impacts against the various surfaces of the aircraft, relatively little aerodynamic sideforce will be created. This means that when the pilot gives a left roll input and the nose of the glider adverse-yaws to point to the right of the actual direction of the flight path and relative wind, the left-to-right airflow component over the aircraft will generate relatively little aerodynamic sideforce to the right, because the airflow is not impacting against a fuselage, fixed vertical fin, etc. This means that there will be relatively little decrease in the turn rate.
 
