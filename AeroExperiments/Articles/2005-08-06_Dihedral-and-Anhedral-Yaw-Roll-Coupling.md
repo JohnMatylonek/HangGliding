@@ -1,12 +1,13 @@
 # The real purpose of dihedral and anhedral: creating an aerodynamic coupling between yaw and roll
 
-**This article consists primarily of some excerpts from the longer article entitled "How washout and billow increase the net geometric anhedral of a swept wing, and other related topics". The passages marked "*" are excerpts from this longer article and the passages marked "**" are additional notes.**  
-*August 6 2005 edition
-Steve Seibel
-www.aeroexperiments.org
-steve at aeroexperiments.org*  
+**Steve Seibel**  
+*August 6 2005 edition*  
+[www.aeroexperiments.org](http://www.aeroexperiments.org)  
+steve at aeroexperiments.org
 
 > **Archival Markdown edition.** The wording of Steve Seibel's original article has been preserved. Formatting and navigational headings have been added for online reading. [View the original plain-text source](./2005-08-06_Dihedral-and-Anhedral-Yaw-Roll-Coupling.txt).
+
+This article consists primarily of some excerpts from the longer article entitled "How washout and billow increase the net geometric anhedral of a swept wing, and other related topics". The passages marked "*" are excerpts from this longer article and the passages marked "**" are additional notes.
 
 > **Excerpt from the longer article:** It's a misconception that anhedral or dihedral create a roll torque because the left wing becomes "more horizontal" than the right wing, or vice versa, or one wing ends up with a "more vertical lift vector" or a "greater projected area", when the aircraft banks to one side.
 
