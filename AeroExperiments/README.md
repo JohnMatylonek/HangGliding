@@ -16,14 +16,14 @@ The collection concerns hang-glider and aircraft flight mechanics, including:
 
 ### Articles
 
-- **2005-08-06 — The Real Purpose of Dihedral and Anhedral**  
-  A concise treatment of how dihedral and anhedral create aerodynamic coupling between yaw and roll.
+- **2005-08-06 — [The Real Purpose of Dihedral and Anhedral](Articles/2005-08-06_Dihedral-and-Anhedral-Yaw-Roll-Coupling.md)**  
+  A concise treatment of how dihedral and anhedral create aerodynamic coupling between yaw and roll. ([Plain-text source](Articles/2005-08-06_Dihedral-and-Anhedral-Yaw-Roll-Coupling.txt))
 
-- **2005-08-31 — How Billow Increases Net Geometric Anhedral**  
-  An early edition examining billow, washout, swept-wing geometry, sideslip, and yaw–roll coupling.
+- **2005-08-31 — [How Billow Increases Net Geometric Anhedral](Articles/2005-08-31_Billow-and-Net-Geometric-Anhedral.md)**  
+  An early edition examining billow, washout, swept-wing geometry, sideslip, and yaw–roll coupling. ([Plain-text source](Articles/2005-08-31_Billow-and-Net-Geometric-Anhedral.txt))
 
-- **2007-08-08 — Does Adverse Yaw Strongly Decrease Turn Rate?**  
-  An analysis focused on flex-wing hang gliders and the relationship among adverse yaw, sideslip, roll, and turn entry.
+- **2007-08-08 — [Does Adverse Yaw Strongly Decrease Turn Rate?](Articles/2007-08-08_Adverse-Yaw-and-Turn-Rate.md)**  
+  An analysis focused on flex-wing hang gliders and the relationship among adverse yaw, sideslip, roll, and turn entry. ([Plain-text source](Articles/2007-08-08_Adverse-Yaw-and-Turn-Rate.txt))
 
 ### Compilations
 
