@@ -12,6 +12,10 @@ The collection concerns hang-glider and aircraft flight mechanics, including:
 - flexible-wing geometry;
 - turning-flight theory and observational experiments.
 
+## Introductory Overview
+
+For a clear introduction to the collection, read **[Steve Seibel’s AeroExperiments: Investigating the Hidden Relationship Between Yaw, Sideslip, and Roll](../SteveSeibel/Steve-Seibels-AeroExperiments.md)**.
+
 ## Organization
 
 ### Articles
